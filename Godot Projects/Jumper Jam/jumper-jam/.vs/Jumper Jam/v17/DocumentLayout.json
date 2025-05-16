@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zi_pp\\OneDrive\\Desktop\\Godot Projects\\Jumper Jam\\jumper-jam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16D6686D-A775-432D-A80A-94B35FE027F8}|Jumper Jam.csproj|c:\\users\\zi_pp\\onedrive\\desktop\\godot projects\\jumper jam\\jumper-jam\\scripts\\gamecamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D6686D-A775-432D-A80A-94B35FE027F8}|Jumper Jam.csproj|solutionrelative:scripts\\gamecamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D6686D-A775-432D-A80A-94B35FE027F8}|Jumper Jam.csproj|c:\\users\\zi_pp\\onedrive\\desktop\\godot projects\\jumper jam\\jumper-jam\\scripts\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D6686D-A775-432D-A80A-94B35FE027F8}|Jumper Jam.csproj|solutionrelative:scripts\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D6686D-A775-432D-A80A-94B35FE027F8}|Jumper Jam.csproj|c:\\users\\zi_pp\\onedrive\\desktop\\godot projects\\jumper jam\\jumper-jam\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D6686D-A775-432D-A80A-94B35FE027F8}|Jumper Jam.csproj|solutionrelative:scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D6686D-A775-432D-A80A-94B35FE027F8}|Jumper Jam.csproj|c:\\users\\zi_pp\\onedrive\\desktop\\godot projects\\jumper jam\\jumper-jam\\scripts\\platform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D6686D-A775-432D-A80A-94B35FE027F8}|Jumper Jam.csproj|solutionrelative:scripts\\platform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\zi_pp\\OneDrive\\Desktop\\Godot Projects\\Jumper Jam\\jumper-jam\\scripts\\Game.cs",
+              "RelativeDocumentMoniker": "scripts\\Game.cs",
+              "ToolTip": "C:\\Users\\zi_pp\\OneDrive\\Desktop\\Godot Projects\\Jumper Jam\\jumper-jam\\scripts\\Game.cs",
+              "RelativeToolTip": "scripts\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T23:49:18.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameCamera.cs",
+              "DocumentMoniker": "C:\\Users\\zi_pp\\OneDrive\\Desktop\\Godot Projects\\Jumper Jam\\jumper-jam\\scripts\\GameCamera.cs",
+              "RelativeDocumentMoniker": "scripts\\GameCamera.cs",
+              "ToolTip": "C:\\Users\\zi_pp\\OneDrive\\Desktop\\Godot Projects\\Jumper Jam\\jumper-jam\\scripts\\GameCamera.cs",
+              "RelativeToolTip": "scripts\\GameCamera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T01:53:52.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\zi_pp\\OneDrive\\Desktop\\Godot Projects\\Jumper Jam\\jumper-jam\\scripts\\Player.cs",
+              "RelativeDocumentMoniker": "scripts\\Player.cs",
+              "ToolTip": "C:\\Users\\zi_pp\\OneDrive\\Desktop\\Godot Projects\\Jumper Jam\\jumper-jam\\scripts\\Player.cs",
+              "RelativeToolTip": "scripts\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T20:36:49.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Platform.cs",
+              "DocumentMoniker": "C:\\Users\\zi_pp\\OneDrive\\Desktop\\Godot Projects\\Jumper Jam\\jumper-jam\\scripts\\Platform.cs",
+              "RelativeDocumentMoniker": "scripts\\Platform.cs",
+              "ToolTip": "C:\\Users\\zi_pp\\OneDrive\\Desktop\\Godot Projects\\Jumper Jam\\jumper-jam\\scripts\\Platform.cs",
+              "RelativeToolTip": "scripts\\Platform.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T23:21:00.954Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

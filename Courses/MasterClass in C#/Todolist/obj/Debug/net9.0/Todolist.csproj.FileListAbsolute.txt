@@ -1,0 +1,14 @@
+C:\Users\zi_pp\OneDrive\Desktop\C# Udemy Course\CourseProjects\Todolist\bin\Debug\net9.0\Todolist.exe
+C:\Users\zi_pp\OneDrive\Desktop\C# Udemy Course\CourseProjects\Todolist\bin\Debug\net9.0\Todolist.deps.json
+C:\Users\zi_pp\OneDrive\Desktop\C# Udemy Course\CourseProjects\Todolist\bin\Debug\net9.0\Todolist.runtimeconfig.json
+C:\Users\zi_pp\OneDrive\Desktop\C# Udemy Course\CourseProjects\Todolist\bin\Debug\net9.0\Todolist.dll
+C:\Users\zi_pp\OneDrive\Desktop\C# Udemy Course\CourseProjects\Todolist\bin\Debug\net9.0\Todolist.pdb
+C:\Users\zi_pp\OneDrive\Desktop\C# Udemy Course\CourseProjects\Todolist\obj\Debug\net9.0\Todolist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zi_pp\OneDrive\Desktop\C# Udemy Course\CourseProjects\Todolist\obj\Debug\net9.0\Todolist.AssemblyInfoInputs.cache
+C:\Users\zi_pp\OneDrive\Desktop\C# Udemy Course\CourseProjects\Todolist\obj\Debug\net9.0\Todolist.AssemblyInfo.cs
+C:\Users\zi_pp\OneDrive\Desktop\C# Udemy Course\CourseProjects\Todolist\obj\Debug\net9.0\Todolist.csproj.CoreCompileInputs.cache
+C:\Users\zi_pp\OneDrive\Desktop\C# Udemy Course\CourseProjects\Todolist\obj\Debug\net9.0\Todolist.dll
+C:\Users\zi_pp\OneDrive\Desktop\C# Udemy Course\CourseProjects\Todolist\obj\Debug\net9.0\refint\Todolist.dll
+C:\Users\zi_pp\OneDrive\Desktop\C# Udemy Course\CourseProjects\Todolist\obj\Debug\net9.0\Todolist.pdb
+C:\Users\zi_pp\OneDrive\Desktop\C# Udemy Course\CourseProjects\Todolist\obj\Debug\net9.0\Todolist.genruntimeconfig.cache
+C:\Users\zi_pp\OneDrive\Desktop\C# Udemy Course\CourseProjects\Todolist\obj\Debug\net9.0\ref\Todolist.dll
